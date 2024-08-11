@@ -34,8 +34,8 @@ function multiply(a, b){
 *Faculty of Information Security*
 
 
-*(2021-2025)*
+(2021-2025)
 ### Course of General English (English Papa)
-*2023*
+2023
 ## Level of English
 Upper-Intermediate (B2)
