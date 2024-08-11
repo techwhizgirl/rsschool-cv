@@ -27,3 +27,5 @@ function multiply(a, b){
   return a * b
 }
 ```
+## Projects
+[CV](https://github.com/techwhizgirl/rsschool-cv/blob/917b321de8354d343182f821185a51a116167cde/cv.md)
