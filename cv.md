@@ -21,3 +21,8 @@ React, Vue.js
 Git, Webpack, npm
 ### Additionally
 Adaptive layout, cross-browser compatibility
+## Sample code
+```function multiply(a, b){
+  return a * b
+}
+```
