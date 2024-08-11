@@ -28,7 +28,7 @@ function multiply(a, b){
 }
 ```
 ## Projects
-[CV](https://github.com/techwhizgirl/rsschool-cv/blob/eb245c3950fe13c642da1376cfa09e4c9b014fb5/cv.md)
+[CV](https://github.com/techwhizgirl/rsschool-cv/blob/e06d9832c8521bb7d0377ba3ef93ea01e14707ec/cv.md)
 ## Education
 ### Belarussian State University of Informatics and Radioelectronics
 *Faculty of Information Security*
