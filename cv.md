@@ -1,2 +1,8 @@
 # Anastasiya Pazniak
-![Photo](D:\anastasiya\courses\rs\photo.jpg)
+## Contacts
+
+
+Phone: +375 (29) 773 75 85
+E-mail: pazniak02@mail.ru
+Github: @techwhizgirl
+Discord: @dierrim
