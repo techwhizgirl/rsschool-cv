@@ -29,3 +29,8 @@ function multiply(a, b){
 ```
 ## Projects
 [CV](https://github.com/techwhizgirl/rsschool-cv/blob/917b321de8354d343182f821185a51a116167cde/cv.md)
+## Education
+### Belarussian State University of Informatics and Radioelectronics
+(2021-2025)
+### Course of General English (English Papa)
+2023
