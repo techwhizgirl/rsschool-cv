@@ -34,3 +34,5 @@ function multiply(a, b){
 (2021-2025)
 ### Course of General English (English Papa)
 2023
+## Level of English
+Upper-Intermediate (B2)
