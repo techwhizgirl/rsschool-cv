@@ -31,8 +31,11 @@ function multiply(a, b){
 [CV](https://github.com/techwhizgirl/rsschool-cv/blob/eb245c3950fe13c642da1376cfa09e4c9b014fb5/cv.md)
 ## Education
 ### Belarussian State University of Informatics and Radioelectronics
-(2021-2025)
+*Faculty of Information Security*
+
+
+*(2021-2025)*
 ### Course of General English (English Papa)
-2023
+*2023*
 ## Level of English
 Upper-Intermediate (B2)
