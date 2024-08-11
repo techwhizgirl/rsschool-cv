@@ -28,7 +28,7 @@ function multiply(a, b){
 }
 ```
 ## Projects
-[CV](https://github.com/techwhizgirl/rsschool-cv/blob/917b321de8354d343182f821185a51a116167cde/cv.md)
+[CV](https://github.com/techwhizgirl/rsschool-cv/blob/eb245c3950fe13c642da1376cfa09e4c9b014fb5/cv.md)
 ## Education
 ### Belarussian State University of Informatics and Radioelectronics
 (2021-2025)
