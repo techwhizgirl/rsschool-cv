@@ -22,7 +22,8 @@ Git, Webpack, npm
 ### Additionally
 Adaptive layout, cross-browser compatibility
 ## Sample code
-```function multiply(a, b){
+```
+function multiply(a, b){
   return a * b
 }
 ```
